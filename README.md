@@ -4,9 +4,9 @@
 <img src = "https://raw.githubusercontent.com/RASH-DATA/ANJU-DATA/refs/heads/main/LOGOS/6152181515400889311.jpg"  width="540" height="300">
 </img>
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=QUEEN+ANJU+WHATSAPP+BOT+MD+V3" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=QUEEN+ANJU+WHATSAPP+BOT+MD+V3" alt="+">
 
-<a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=TECHNICAL+DARK+DEVILS+(T.D.D)" alt="">   
+<a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=TECHNICAL+DARK+DEVILS+(T.D.D)" alt="+">   
 </p>
       <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-GAMING_RASH-red.svg?style=for-the-badge&logo=github"></a>
@@ -36,7 +36,7 @@ And Subscribe GAMING RASH and give one star for queen anju.
     <br>
     <a href="https://github.com/Mrrashmika/QUEEN_ANJU_MD/fork"><img title="QUEEN_ANJU-MD" src="https://img.shields.io/badge/FORK QUEEN_ANJU-h?color=black&style=for-the-badge&logo=stackshare"></a>
  - 2._Link with yoour whatsappp using pair code._
-   **Pair with WhatsApp*
+   **ANJU-MD=bM8nFD6T#niAUaTlgvWN2xWO3WHfKq6gzKT5_ccvFmiFlxfaBt1M*
 
    @SITE 1
    <p align="center">
